@@ -1,5 +1,6 @@
 @echo off
 echo %cd%
+mkdir .\whatsapp-files\shared\
 echo preparing backup.. 
 echo pastikan sudah terhubung dgn smartphone mode developer + usb debugging = on
 pause
